@@ -1,3 +1,3 @@
 # chess-cli-java
 
-bakayarou
+A way to play Chess in the command-line.
